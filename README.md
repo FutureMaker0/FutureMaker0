@@ -1,4 +1,4 @@
-### Hello, I'm jaehyeon kim. 👋
+## Hello, I'm jaehyeon kim. 👋
   - I'm majored in computer science and engineering.
   - I hope to be a senseous Back-End developer and I have passion for the tasks assigned to me.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+## Tech Stack
 <table>
     <thead align="center">
         <tr>
