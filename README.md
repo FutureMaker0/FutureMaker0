@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm jaehyeon kim.
-  ### - I'm majored in computer science and engineering.
-  ### - I hope to be a senseous Back-End developer and I have passion for the tasks assigned to me.
+  ### -. I'm majored in computer science and engineering.
+  ### -. I hope to be a senseous Back-End developer and I have passion for the tasks assigned to me.
 
 <!--
 **FutureMaker0/FutureMaker0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
